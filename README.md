@@ -51,7 +51,7 @@ A.S. in Computer Science – *Dec 2020*
 ---
 
 ## 📄 View My Resume
-📎 [Download Resume (PDF)](Mahmoud_Khafagy_Resume.pdf)
+📎 [View Resume (PDF)](Mahmoud_Khafagy_Resume.pdf)
 
 ---
 

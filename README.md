@@ -2,7 +2,7 @@
 
 📍 Orange County, CA  
 📧 makhafagy11@gmail.com | 📞 (714)-616-8112  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) | [GitHub](https://github.com/YOUR-USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-khafagy-mo/) | [GitHub](https://github.com/Makhafagy)
 
 ---
 
@@ -55,4 +55,4 @@ A.S. in Computer Science – *Dec 2020*
 
 ---
 
-Feel free to connect or reach out for collaboration, contracting, or full-time opportunities in backend, full-stack, or cloud engineering roles.
+Feel free to connect or reach out for collaboration, contracting, or full-time opportunities in backend, full-stack, or AI/ML engineering roles.

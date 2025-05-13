@@ -3,6 +3,7 @@
 📍 Orange County, CA  
 📧 makhafagy11@gmail.com | 📞 (714)-616-8112  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-khafagy-mo/) | [GitHub](https://github.com/Makhafagy)
+📅 [Book a time with me](https://calendly.com/makhafagy11/chat-with-mahmoud-swe-job-opportunities)
 
 ---
 

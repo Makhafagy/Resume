@@ -1,4 +1,4 @@
-# Mahmoud Khafagy – Software Engineer Resume
+# Mac Kafagy – Software Engineer Resume
 
 📍 Orange County, CA  
 📧 mackafagy@gmail.com | 📞 (714)-616-8112  
